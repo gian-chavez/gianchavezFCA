@@ -1,3 +1,5 @@
+Programa de Ordenamiento de Números
+---
 Autor
 ---
 Nombre: Gianfranco Chávez Marchetta
@@ -6,8 +8,6 @@ Contacto: gian_chavez@hotmail.com
 
 Fecha de última actualización: 10 de Mayo de 2024
 
-Programa de Ordenamiento de Números
----
 Descripción
 ---
 Este programa en C solicita al usuario que ingrese tres números enteros, con la condición de que deben estar en el rango de 4 a 14. Una vez ingresados, el programa verifica si los números están dentro del rango permitido. Si alguno de los números no cumple con este criterio, se muestra un mensaje de error y se solicita al usuario que salga del programa. Si los números están dentro del rango permitido, se ordenan de mayor a menor utilizando el algoritmo de ordenamiento de burbuja (Bubble Sort) y se muestran en la consola.
