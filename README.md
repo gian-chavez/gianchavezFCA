@@ -1,3 +1,11 @@
+Autor
+---
+Nombre: Gianfranco Chávez Marchetta
+
+Contacto: gian_chavez@hotmail.com
+
+Fecha de última actualización: 10 de Mayo de 2024
+
 Programa de Ordenamiento de Números
 ---
 Descripción
