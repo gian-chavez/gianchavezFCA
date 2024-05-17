@@ -96,11 +96,17 @@ Para compilar y ejecutar el programa, sigue los siguientes pasos:
 Programa para sumar los primeros n numeros pares
 -------------------------------------------------
 Este programa permite sumar los primeros n numeros pares indicados por el usuario.
+
 El usuario debe ingresar un numero entero positivo n, y el programa mostrara
+
 la suma acumulativa de los primeros n numeros pares.
 
 Ingrese un numero entero positivo n: 3
+
 Para n = 1, Suma = 2.
+
 Para n = 2, Suma = 6.
+
 Para n = 3, Suma = 12.
+
 Presione Enter para salir...
